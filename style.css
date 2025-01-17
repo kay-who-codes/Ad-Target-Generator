@@ -41,3 +41,7 @@ button:hover {
     font-size: 16px;
     colour: #333;
 }
+
+a {
+    color: black;
+}
