@@ -15,8 +15,8 @@ async function generateProfile() {
 
     const age = getRandomInt(5, 91);
     const sex = age < 20 ? (Math.random() < 0.5 ? 'girl' : 'boy') : (Math.random() < 0.5 ? 'woman' : 'man');
-    const adjective = Math.random() < 0.75 ? traits[getRandomInt(0, traits.length - 1)].Adjective : null;
-    const trait = Math.random() < 0.75 ? traits[getRandomInt(0, traits.length - 1)].Trait : null;
+    const adjective = Math.random() < 0.833 ? traits[getRandomInt(0, traits.length - 1)].Adjective : null;
+    const trait = Math.random() < 0.833 ? traits[getRandomInt(0, traits.length - 1)].Trait : null;
 
     // Build the profile sentence
     let profile = `A`;
