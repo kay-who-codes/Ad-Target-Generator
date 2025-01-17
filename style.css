@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #131313;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+}
+
+.app {
+    text-align: center;
+    background: #161616;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+button {
+    background: #FF5400;;
+    border: none;
+    colour: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px 0;
+    position: relative;
+    z-index: 10;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+#profileContainer {
+    margin-top: 10px;
+    font-size: 16px;
+    colour: #333;
+}
