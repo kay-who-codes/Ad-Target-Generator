@@ -49,7 +49,7 @@ async function generateProfile() {
     if (adjective) profile += ` ${adjective}`;
     profile += ` ${age} year old ${sex}`;
     if (trait) profile += ` who ${trait}`;
-    profile += `.`; // Add a period at the end
+    profile += ``;
 
     // Check if the toggle switch is on
     const fetchProductsToggle = document.getElementById('fetchProductsToggle').checked;
