@@ -7,11 +7,47 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header class="header-bar">
+        <a href="https://github.com/kay-who-codes/Advertising-Character-Generator" class="header-link">👤 Ad Target Generator</a>
+        <div class="dropdown">
+          <button class="dropbtn" onclick="toggleDropdown()">More Apps</button>
+          <div class="dropdown-content" id="dropdownMenu">
+            <a href="https://kay-who-codes.github.io/Cards-Against-Humanity/">⬜ Cards Against Humanity</a>
+            <a href="https://kay-who-codes.github.io/Ultimate-Drinking-Cards">🍻 Ultimate Drinking Cards</a>
+            <a href="https://kay-who-codes.github.io/Kings-Cup/">🍺 Kings Cup</a>
+            <a href="https://kay-who-codes.github.io/Question-Cards/">❓ Question Cards</a>
+            <a href="https://kay-who-codes.github.io/Daily-Comic-Strips/">🗞️ Comic Strips</a>
+            <a href="https://kay-who-codes.github.io/Soundboard/">🔊 Soundboard</a>
+            <a href="https://kay-who-codes.github.io/Greek-Quiz/">🇬🇷 Greek Quiz</a>
+            <a href="https://kay-who-codes.github.io/HTML-Displayer/">👁️ HTML Viewer</a>
+            <a href="https://kay-who-codes.github.io/Calendar-Holiday-Countdown/">📅 Calendar Countdown</a>
+            <a href="https://kay-who-codes.github.io/Skint-Countdown/">⌛ Skint Countdown</a>
+            <a href="https://kay-who-codes.github.io/Song-Inspirator/">🎶 Song Inspirator</a>
+            <a href="https://kay-who-codes.github.io/Bible-Completion-Calculator/">✝️ Bible Completion Calculator</a>
+            <a href="https://kay-who-codes.github.io/Random-Bible-Verse/">✝️ Random Bible Verses</a>
+            <a href="https://kay-who-codes.github.io/Random-Numbers/">🔢 Random Number Generator</a>
+            <a href="https://kay-who-codes.github.io/Coinflip/">🪙 Coinflip</a>
+          </div>
+        </div>
+      </header>
     <div class="app">
         <h1>Ad Target Generator</h1>
+        <div class="toggle-switch">
+            <p>Include Product</p>
+            <label class="switch">
+                <input type="checkbox" id="fetchProductsToggle">
+                <span class="slider round"></span>
+            </label>
+        </div>
         <button id="generateButton">Generate Profile</button>
         <div id="profileContainer"></div>
     </div>
+
+  <!-- Footer with the credit link -->
+  <footer id="footer">
+    Made by <a href="https://linktr.ee/kaywhocreates" target="_blank" rel="noopener noreferrer">Kay 🧡</a>
+  </footer>
+  
     <script src="script.js"></script>
 </body>
 </html>
