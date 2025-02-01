@@ -4,6 +4,8 @@
 
 Access it **[HERE](https://kay-who-codes.github.io/Advertising-Character-Generator/)**
 
+![App Image](Non-App/App%20Image.png)
+
 ## Features
 
 - **Random Customer Profiles:** Generate random profiles with characteristics like age, gender, personality traits, and more.
