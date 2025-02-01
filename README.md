@@ -4,7 +4,7 @@
 
 Access it **[HERE](https://kay-who-codes.github.io/Advertising-Character-Generator/)**
 
-![App Image](Non-App/App%20Image.png)
+[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Advertising-Character-Generator/)
 
 ## Features
 
