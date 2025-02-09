@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-Copyright 2025 kay-who-codes
+© Copyright 2025 kay-who-codes
 
 You are free to:
 
