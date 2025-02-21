@@ -2,9 +2,9 @@
 
 **Ad Target Generator** is a fun and interactive web application designed to generate random customer profiles that can be used for advertising and marketing purposes. The app creates unique profiles based on random traits such as age, gender, and personality. Users can also optionally include a product suggestion and create a marketing pitch tailored to the generated profile.
 
-Access it **[HERE](https://kay-who-codes.github.io/Advertising-Character-Generator/)**
+Access it **[HERE](https://kay-who-codes.github.io/Ad-Target-Generator/)**
 
-[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Advertising-Character-Generator/)
+[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Ad-Target-Generator/)
 
 ## Features
 
